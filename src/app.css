@@ -1,0 +1,20 @@
+:root {
+  --dark-purple: #733fc8;
+  --dark-blue-gray: #48556a;
+  --deep-indigo: #19202d;
+  --light-purple: #a775f1;
+  --light-gray: #ecf2f8;
+  --pale-gray: #cfcfcf;
+  --font-family: "Barlow Semi Condensed", serif;
+}
+* {
+  margin: 0;
+}
+
+body {
+  background-color: var(--light-gray);
+  color: white;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 13px;
+}
